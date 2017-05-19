@@ -123,7 +123,7 @@ class SiteController extends Controller
         return $this->render('about');
     }
     public function actionSay() {
-        //test
+        //testfas
         return $this->render('say');
     }
 }
